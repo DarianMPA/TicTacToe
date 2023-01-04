@@ -69,6 +69,16 @@ El arbol de juegos es el que da el estado inicial y los movimientos legales en e
 
 ![imagen](https://user-images.githubusercontent.com/62720636/210417670-21f2d486-a707-4f01-a8c8-530b89394aed.png)
 
+# Tiempos de los peores casos y los mejores casos
+
+La inteligencia artificial está solo un nivel por encima de la programación informática básica. La gente está en un nivel superior. Los desarrollos y avances recientes en IA están más estrechamente relacionados que nunca con la inteligencia humana. Sin embargo, las máquinas todavía están mucho más allá de las capacidades del cerebro humano. Los seres humanos se diferencian en nuestra capacidad para aplicar los conocimientos adquiridos a través de la lógica, el razonamiento, la comprensión, el aprendizaje y la experiencia. Inteligencia artificial Los robots no pueden procesar tanta información como los humanos. Inteligencia artificial Los robots no pueden procesar tanta información como los humanos. Dado que la IA aún se encuentra en sus primeras etapas, el futuro dependerá de cómo los humanos controlen las aplicaciones de IA para respetar los valores humanos y las medidas de seguridad. Aunque las máquinas pueden imitar el comportamiento humano hasta cierto punto, su conocimiento puede corromperse al tomar decisiones racionales como las nuestras. Las máquinas impulsadas por IA toman decisiones basadas en eventos y su relación con ellos, pero carecen de "sentido común".
+
+Se puede concluir que entre el humano y maquina existe una respuesta a los mejores o peores casos, la cual es abismal. la computadora puede realizar analisis y acciones casi inmediatas tardando no mas de 1 seg segun la operacion que se le presente. en este caso del juego simulado la computadora es aun mas eficiente en sus tiempos de respuesta que el humano. El ser humano para dar un analisis concreto llega a tardar en promedio hasta 2 minutos en dar su respuesta mas larga.
+
+# Estudio combinatorio del juego
+
+El modelo que puede encontrar aquí muestra el algoritmo minimax aplicado a un árbol de juego aleatorio para un juego donde los nodos finales tienen valores entre 0 y 10. Además, el modelo proporciona una manera fácil de permitir que los árboles se representen en un manera equilibrada.
+
 # Instrucciones para ejecutar el código en Windows y en Linux
 
 Para compilar el programa, una opción es descargar un IDE con todas las configuraciones necesarias, como Visual Studio Code, abrir la documentación a través del IDE, verificar si el complemento de idioma está configurado, en este caso C, y compilar. Ademas existen opciones en linea para la compilacion de programas realizados en C++ como son Onlinegdb o replit. la opcion de replit permite trabajar de manera colaborativa con otros usuario para la creacion de codigo, esta el la forma mas viable para realizar codigo en C++ de forma cooperativa y rapida. Tan solo se necesita abrir un navegador e ingresar en cualquiera de las 2 opciones que tenemos disponibles para la ejecucion del codigo.
