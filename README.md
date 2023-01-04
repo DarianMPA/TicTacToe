@@ -69,4 +69,6 @@ El arbol de juegos es el que da el estado inicial y los movimientos legales en e
 
 ![imagen](https://user-images.githubusercontent.com/62720636/210417670-21f2d486-a707-4f01-a8c8-530b89394aed.png)
 
+# Instrucciones para ejecutar el código en Windows y en Linux
 
+Para compilar el programa, una opción es descargar un IDE con todas las configuraciones necesarias, como Visual Studio Code, abrir la documentación a través del IDE, verificar si el complemento de idioma está configurado, en este caso C, y compilar. Ademas existen opciones en linea para la compilacion de programas realizados en C++ como son Onlinegdb o replit. la opcion de replit permite trabajar de manera colaborativa con otros usuario para la creacion de codigo, esta el la forma mas viable para realizar codigo en C++ de forma cooperativa y rapida. Tan solo se necesita abrir un navegador e ingresar en cualquiera de las 2 opciones que tenemos disponibles para la ejecucion del codigo.
